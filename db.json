@@ -1,5 +1,5 @@
 {
-  "Employees": [
+  "employees": [
     { "id": 1, "name": "ABC", "department": "Engineer", "designation": "Engineer" },
     { "id": 2, "name": "XYZ", "department": "IT", "designation": "JuniorEngineer" },
     { "id": 3, "name": "PQR", "department": "QualityAssurance", "designation": "Engineer" }
