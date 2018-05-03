@@ -1,7 +1,42 @@
 {
   "employees": [
-    { "id": 1, "name": "ABC", "department": "Engineer", "designation": "Engineer" },
-    { "id": 2, "name": "XYZ", "department": "IT", "designation": "JuniorEngineer" },
-    { "id": 3, "name": "PQR", "department": "QualityAssurance", "designation": "Engineer" }
+
+    { 
+      "id": 1, 
+      "name": "ABC", 
+      "department": 
+      "Engineer", 
+      "designation": "Engineer",
+      "Address": {
+                   "street": "A",
+                   "city": "A",
+                   "state": "A",
+                   "country": "A"
+                 }
+    },
+    { 
+      "id": 2, 
+      "name": "XYZ", 
+      "department": "IT", 
+      "designation": "JuniorEngineer",
+			"Address": {
+                   "street": "A",
+                   "city": "A",
+                   "state": "A",
+                   "country": "A"
+                 }
+    },
+    { 
+			"id": 3, 
+			"name": "PQR", 
+			"department": "QualityAssurance", 
+			"designation": "Engineer",
+			"Address": {
+                   "street": "A",
+                   "city": "A",
+                   "state": "A",
+                   "country": "A"
+                 }
+		}
   ]
 }
